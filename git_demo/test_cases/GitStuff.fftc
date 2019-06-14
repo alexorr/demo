@@ -5,7 +5,7 @@
             <steps>
                 <item guid="a5a1005f-2990-4638-8c5d-613bfe89e85d" action="comment" useFieldsInCommand="false">
                     <command>
-                        <body>Demo of Git in iTest</body>
+                        <body>Demo of Git in iTest </body>
                     </command>
                     <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
                 </item>
