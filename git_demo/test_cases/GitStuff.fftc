@@ -11,7 +11,7 @@
                 </item>
                 <item guid="befc75a9-74a5-4ef0-85d3-ae2f058d1aa7" action="comment" useFieldsInCommand="false">
                     <command>
-                        <body>Accept my stuff!!!!</body>
+                        <body>Accept my stuff!!</body>
                     </command>
                     <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
                 </item>
