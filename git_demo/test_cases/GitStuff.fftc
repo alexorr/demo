@@ -1,21 +1,19 @@
 <?xml version="1.0"?>
-<testCase version="7.0.0.bc91e6c">
+<testCase version="7.3.3.0">
     <procedures>
         <item name="main">
             <steps>
-                <item guid="a5a1005f-2990-4638-8c5d-613bfe89e85d" action="comment">
+                <item guid="a5a1005f-2990-4638-8c5d-613bfe89e85d" action="comment" useFieldsInCommand="false">
                     <command>
                         <body>Demo of Git in iTest</body>
                     </command>
                     <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
-                    <useFieldsInCommand>false</useFieldsInCommand>
                 </item>
-                <item guid="befc75a9-74a5-4ef0-85d3-ae2f058d1aa7" action="comment">
+                <item guid="befc75a9-74a5-4ef0-85d3-ae2f058d1aa7" action="comment" useFieldsInCommand="false">
                     <command>
-                        <body>Accept my stuff </body>
+                        <body>Accept my stuff!</body>
                     </command>
                     <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
-                    <useFieldsInCommand>false</useFieldsInCommand>
                 </item>
             </steps>
         </item>
